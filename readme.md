@@ -5,6 +5,10 @@ Our team developed _______ in order to showcase our fullstack repetoire. This ap
 
 ## Table of Contents
 * [Usage](#usage)
+* [Technologies](#technologies)
+* [Screenshot](#screenshot)
+* [License](#license)
+* [Contact](#contact)
 
 ## Technologies
 
