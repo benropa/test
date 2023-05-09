@@ -4,7 +4,7 @@
 Our team developed _______ in order to showcase our fullstack repetoire. This application aims to replicate the presentation and functionality of an E-Commerce site such as Etsy or Ebay.
 
 ## Table of Contents
-* Usage
+* [Usage](#usage)
 
 ## Technologies
 
@@ -13,7 +13,7 @@ Our team developed _______ in order to showcase our fullstack repetoire. This ap
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" />
 
-
+## Usage
 
 
 ## Screenshot
