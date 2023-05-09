@@ -25,7 +25,7 @@ Our team developed _______ in order to showcase our fullstack repetoire. This ap
 MIT license
 
 ## Contact
-Ben Ropa 
-Gordon Karlsson 
-Stephen Merki
-Devin Hoffmaster
+* Ben Ropa 
+* Gordon Karlsson 
+* Stephen Merki
+* Devin Hoffmaster
