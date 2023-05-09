@@ -25,7 +25,7 @@ Our team developed _______ in order to showcase our fullstack repetoire. This ap
 MIT license
 
 ## Contact
-* Ben Ropa | benropa@outlook.com | https://github.com/BenRopa / github
+* Ben Ropa | benropa@outlook.com | [GitHub](https://github.com/BenRopa)
 * Gordon Karlsson 
 * Stephen Merki
 * Devin Hoffmaster
