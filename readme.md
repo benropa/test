@@ -16,6 +16,8 @@ https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-u
 https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
 https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white
 https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E
+! https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E
+
 
 ## Screenshot
 
