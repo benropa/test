@@ -22,7 +22,7 @@ Our team developed _______ in order to showcase our fullstack repetoire. This ap
 ## Usage
 
 ## License
-MIT license
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Contact
 * Ben Ropa | benropa@outlook.com | [GitHub](https://github.com/BenRopa)
