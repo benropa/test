@@ -9,7 +9,7 @@ Our team developed _______ in order to showcase our fullstack repetoire. This ap
 #
 #
 
-## Usage
+## Technologies
 
 <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
