@@ -26,6 +26,7 @@ MIT license
 
 ## Contact
 * Ben Ropa | benropa@outlook.com | [GitHub](https://github.com/BenRopa)
+* Devin Hoffmaster | hlaf83@ymail.com | [GitHub](https://github.com/HoffmasterDevin)
 * Gordon Karlsson | gpkarlsson72@gmail.com | [GitHub](https://github.com/gpkarlsson)
 * Stephen Merki | stephen.merki232@gmail.com | [GitHub](https://github.com/stev232)
-* Devin Hoffmaster | hlaf83@ymail.com | [GitHub](https://github.com/HoffmasterDevin)
+
